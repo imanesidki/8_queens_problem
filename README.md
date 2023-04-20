@@ -8,15 +8,15 @@ The Genetic Algorithm is an evolutionary algorithm inspired by the process of na
 Requirements
 This notebook requires the following Python libraries:
 
-NumPy
-Matplotlib
-Math
-IPython.display
+NumPy<br>
+Matplotlib<br>
+Math<br>
+IPython.display<br>
 
-Files
+Files<br>
 This repository contains the following files:
 
-genetic_algorithm_8queens.ipynb: Jupyter Notebook containing the code to solve the 8 Queens Problem using a Genetic Algorithm.
+genetic_algorithm_8queens.ipynb: Jupyter Notebook containing the code to solve the 8 Queens Problem using a Genetic Algorithm.<br>
 README.md: This file, describing the contents of the repository.
 
 The notebook contains detailed comments explaining the code and the algorithm used to solve the problem.
